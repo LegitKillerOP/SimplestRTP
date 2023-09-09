@@ -1,0 +1,5 @@
+prefix: "&e[&6RTP&e]&r "
+
+cooldownDuration: 10  #in sec
+maxteleportradius: 10000
+maxattempt: 50

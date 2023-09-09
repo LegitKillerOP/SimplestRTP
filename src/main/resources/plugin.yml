@@ -1,3 +1,6 @@
 name: RTP
 version: '${project.version}'
 main: me.legit.rtp.RTP
+commands:
+  rtp:
+    description: Randomly teleport
